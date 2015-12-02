@@ -1,0 +1,10 @@
+
+#This is a shell script that starts MATLAB. It works on Max and Linux. Should also work on Windows in a modified form
+
+#First it adds my main MATLAB code directory to the MATLAB path using a system variable
+export MATLABPATH=/Users/raacampbell/work/Matlab_Scripts/
+
+#Now it starts MATLAB without the GUI (just because I prefer that)
+/Applications/MATLAB_R2014a.app/bin/matlab -nodesktop -nosplash
+
+#Once MATLAB is started, it runs the startup.m file that is located in the code directory
