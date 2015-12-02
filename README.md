@@ -46,3 +46,4 @@ However you do it, it's crucial that your function's input and outputs are well 
 2. Look in ```exercises/makeTheseCrap/```. Choose one of the files and make crap by removing all the good things about it. 
 3. Save the file. Stage. Push. Commit. 
 4. Now go to Bitbucket and make a pull request to the ```scratch``` branch of my repo. 
+5. Write *a nicely laid out* function that takes as input a scalar. By default it should square the scalar and display the result to screen. Optionally it should return the result to the command line. If it does the latter, nothing should be displayed to screen. Using the commands ```nargin``` and the ```varargout``` construct to achieve the task. See  ```inputArgExample.m``` in the ```writingHelp``` directory for hints. Send me the results via a pull request to my ```scratch``` branch.
