@@ -8,3 +8,8 @@ close all
 
 
 %code follows...
+
+%more code follows...
+
+
+output=rand; %Then some output is generated. 
