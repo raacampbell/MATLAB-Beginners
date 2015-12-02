@@ -28,7 +28,10 @@ other sorts of inputs and outputs. e.g.
 2. Reading from a URL.
 3. Output to screen or as a figure. 
 
-However you do it, it's crucial that your function plays nicely. 
+However you do it, it's crucial that your function's input and outputs are well thought out and do anything unexpected. Code for this section is in ```InputsAndOutputs```
+1. Take a look at ```basicFunctionExample``` and run it. This is more or less the most simple thing you can do. 
+2. Take a look at ```never_do_this.m```. Why should you never do that?
+3. Take a look at ```manyArguments.m``` How does it make you feel? Is what you're seeing good or bad practice?
 
 
-4. Writing good help and documentation for your functions. General layout of a MATLAB script.
+## Writing good help and documentation for your functions. General layout of a MATLAB script.
