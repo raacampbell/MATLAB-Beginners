@@ -1,5 +1,5 @@
 #Basic MATLAB coding tute: code organization
-
+Repo for interactive talk. The idea is to clone this repo and follow along.
 
 
 ##Adding your functions to the MATLAB path
@@ -38,4 +38,11 @@ However you do it, it's crucial that your function's input and outputs are well 
 1. Look in the directory ```writingHelp.m```. Load the basicFunctionExample in there and compare it to that from the ```InputsAndOutputs.m```. Which is easier to read and understand?
 2. Look at the file ```inputArgExample.m```. Does it provide a solution to ```manyArguments.m```?
 3. We'll talk about the anatomy of the help section at the top and what defines a useful comment compared to a useless comment. 
-4. Let's see why this matters. Take a look at ```labelEdgeSubPlots_CRAP_COMMENTS.m``` What does it do? Give up? Now take a look at ```labelEdgeSubPlotsCOMMENTS.m````
+4. Let's see why this matters. Take a look at ```labelEdgeSubPlots_CRAP_COMMENTS.m``` What does it do? Give up? Now take a look at ```labelEdgeSubPlotsCOMMENTS.m``` Same code. Better, yes? 
+
+
+##Exercises
+1. Fork the repo on Bitbucket. Add the remote to SmartGit. Check it out.
+2. Look in ```exercises/makeTheseCrap/```. Choose one of the files and make crap by removing all the good things about it. 
+3. Save the file. Stage. Push. Commit. 
+4. Now go to Bitbucket and make a pull request to the ```scratch``` branch of my repo. 
