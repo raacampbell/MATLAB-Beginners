@@ -1,3 +1,6 @@
+#WHAT IS THIS?
+THIS BRANCH IS FOR DEFACING THE REPO AND ACCEPTING PULL REQUESTS THAT MIGHT SCREW IT UP.
+
 #Basic MATLAB coding tute: code organization
 Repo for interactive talk. The idea is to clone this repo and follow along.
 
