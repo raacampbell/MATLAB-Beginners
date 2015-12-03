@@ -14,7 +14,7 @@ of the ```H1 line```. You can get help on-line at The MathWorks newsgroup and th
 ## Variable scope
 Variables exist only within a certain domain. 
 
-1. How does the workspace relate to scripts and functions? Look in scopeAndMFiles and at the files ```thisIsAFunction.m``` and ```thisIsAScript.m````. What 
+1. How does the workspace relate to scripts and functions? Look in scopeAndMFiles and at the files ```thisIsAFunction.m``` and ```thisIsAScript.m```. What 
 is the difference between these two?
 2. Now we will run ```basicScopeExample.m``` and see how the value of the local variable ```myVar``` changes through the function. 
 3. So what is scope good for?
