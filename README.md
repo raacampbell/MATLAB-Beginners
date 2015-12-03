@@ -13,6 +13,7 @@ of the ```H1 line```. You can get help on-line at The MathWorks newsgroup and th
 
 ## Variable scope
 Variables exist only within a certain domain. 
+
 1. How does the workspace relate to scripts and functions? Look in scopeAndMFiles and at the files ```thisIsAFunction.m``` and ```thisIsAScript.m````. What 
 is the difference between these two?
 2. Now we will run ```basicScopeExample.m``` and see how the value of the local variable ```myVar``` changes through the function. 
@@ -29,12 +30,14 @@ other sorts of inputs and outputs. e.g.
 3. Output to screen or as a figure. 
 
 However you do it, it's crucial that your function's input and outputs are well thought out and do anything unexpected. Code for this section is in ```InputsAndOutputs```
+
 1. Take a look at ```basicFunctionExample``` and run it. This is more or less the most simple thing you can do. 
 2. Take a look at ```never_do_this.m```. Why should you never do that?
 3. Take a look at ```manyArguments.m``` How does it make you feel? Is what you're seeing good or bad practice?
 
 
 ## Writing good help and documentation for your functions. 
+
 Here we discuss both what makes good docs and how the general layout of a MATLAB function matters.
 1. Look in the directory ```writingHelp.m```. Load the basicFunctionExample in there and compare it to that from the ```InputsAndOutputs.m```. Which is easier to read and understand?
 2. Look at the file ```inputArgExample.m```. Does it provide a solution to ```manyArguments.m```?
