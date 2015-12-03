@@ -39,6 +39,7 @@ However you do it, it's crucial that your function's input and outputs are well 
 ## Writing good help and documentation for your functions. 
 
 Here we discuss both what makes good docs and how the general layout of a MATLAB function matters.
+
 1. Look in the directory ```writingHelp.m```. Load the basicFunctionExample in there and compare it to that from the ```InputsAndOutputs.m```. Which is easier to read and understand?
 2. Look at the file ```inputArgExample.m```. Does it provide a solution to ```manyArguments.m```?
 3. We'll talk about the anatomy of the help section at the top and what defines a useful comment compared to a useless comment. 
