@@ -44,6 +44,8 @@ function varargout=labelEdgeSubPlots(xl,yl,onlyBottom)
 % end
 % labelEdgeSubPlots('X','Y',ax);
 % 
+%
+%
 % Rob Campbell - January 2009    
     
 
