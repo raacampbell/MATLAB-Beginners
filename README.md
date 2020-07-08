@@ -1,12 +1,12 @@
-#Basic MATLAB coding tute: code organization
-Repo for interactive talk. The idea is to clone this repo and follow along.
+# Basic MATLAB coding tute: code organization
+This repo is supposed to go along with and interactive talk. The idea is to clone this repo and follow along.
 
 
-##Adding your functions to the MATLAB path
+## Adding your functions to the MATLAB path
 We will cover the functions ```pathtool```, ```addpath```, ```rmpath```. See the organisingYourPath directory in this repository for an example of how to customise your MATLAB startup.
 
 
-##Getting help 
+## Getting help 
 You can get help in MATLAB using the ```help``` and ```doc``` commands. You can find files related a keyword using ```lookfor```, which is based around the idea 
 of the ```H1 line```. You can get help on-line at The MathWorks newsgroup and the file exchange.
 
