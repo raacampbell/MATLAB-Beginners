@@ -46,7 +46,7 @@ Here we discuss both what makes good docs and how the general layout of a MATLAB
 4. Let's see why this matters. Take a look at ```labelEdgeSubPlots_CRAP_COMMENTS.m``` What does it do? Give up? Now take a look at ```labelEdgeSubPlotsCOMMENTS.m``` Same code. Better, yes? 
 
 
-##Exercises
+## Exercises
 1. Fork the repo on Bitbucket. Add the remote to SmartGit. Check it out.
 2. Look in ```exercises/makeTheseCrap/```. Choose one of the files and make crap by removing all the good things about it. 
 3. Save the file. Stage. Push. Commit. 
